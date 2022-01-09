@@ -1,0 +1,14 @@
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\bin\Debug\prjFinalDA3JagrutGosai.exe.config
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\bin\Debug\prjFinalDA3JagrutGosai.exe
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\bin\Debug\prjFinalDA3JagrutGosai.pdb
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.csproj.AssemblyReference.cache
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.frmMain.resources
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.Properties.Resources.resources
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.csproj.GenerateResource.cache
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.csproj.CoreCompileInputs.cache
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.exe
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.pdb
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.frmTeacher.resources
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.frmCourse.resources
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.frmStudent.resources
+C:\Users\jagua\source\repos\420-DA3-AS\prjFinalDA3JagrutGosai\prjFinalDA3JagrutGosai\obj\Debug\prjFinalDA3JagrutGosai.frmSearchcs.resources
